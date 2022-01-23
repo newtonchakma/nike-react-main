@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Lora&family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Courgette', cursive;
+font-family: 'Lora', serif;
+font-family: 'Poppins', sans-serif;
+}
+.header-bg{
+    background: #FFF9F4;
+}
+
+.b-color{
+    background-color: #3543BC;
+}
+.title-color{
+    color: #FA804C;
+}
+.hello{
+    background: #dbd9d9;
+    border-radius: 30px;
+}
+@media (max-width: 576px) { 
+    
+}
